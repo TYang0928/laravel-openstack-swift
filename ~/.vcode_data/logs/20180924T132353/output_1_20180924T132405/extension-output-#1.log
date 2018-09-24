@@ -1,0 +1,22 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www/test/laravel-openstack-swift
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tian
+> git rev-parse --symbolic-full-name tian@{u}
+> git rev-list --left-right tian...refs/remotes/origin/tian
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/SwiftAdapterWrapper.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tian
+> git rev-parse --symbolic-full-name tian@{u}
+> git rev-list --left-right tian...refs/remotes/origin/tian
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
