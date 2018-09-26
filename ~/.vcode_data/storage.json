@@ -474,5 +474,25 @@
             "label": "Ctrl+Shift+B",
             "isNative": true
         }
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/var/www/test/laravel-openstack-swift",
+                "external": "file:///var/www/test/laravel-openstack-swift",
+                "path": "/var/www/test/laravel-openstack-swift",
+                "scheme": "file"
+            },
+            "backupPath": "/var/www/test/laravel-openstack-swift/~/.vcode_data/Backups/7561684a289c993f6dde951a417d12ec",
+            "uiState": {
+                "mode": 1,
+                "x": 97,
+                "y": 173,
+                "width": 1024,
+                "height": 768
+            }
+        }
     }
 }

@@ -20,3 +20,11 @@ Open repository: /var/www/test/laravel-openstack-swift
 > git rev-list --left-right tian...refs/remotes/origin/tian
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
+> git show :src/SwiftAdapterWrapper.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tian
+> git rev-parse --symbolic-full-name tian@{u}
+> git rev-list --left-right tian...refs/remotes/origin/tian
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
